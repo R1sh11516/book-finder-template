@@ -15,9 +15,9 @@ module.exports = env => {
             filename: '[name].bundle.js'
         },
     
-        devServer: {
-            host: '0.0.0.0'
-        }
+//         devServer: {
+//             host: '0.0.0.0'
+//         }
     
     });
 };
